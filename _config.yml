@@ -1,0 +1,28 @@
+name: successvlog
+favicon: null
+layout_spectrum: 0.5577467342372984
+typography_spectrum: 0.15373222716152668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6716961136553437
+  lightness: 0.6471505262888968
+  saturation: 0.1280632708221674
+  rhythmicContrast: 0.9512343565002084
+purpose: []
