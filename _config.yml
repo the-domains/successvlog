@@ -1,8 +1,7 @@
+name: successvlog
+favicon: null
 layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.9480287
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.5
-  brandStrength: 1
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.8125
-typography_spectrum: 0.9480287
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: successvlog
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#cc0000'
+    - '#000000'
+    - '#373737'
+    - '#e78b8b'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
+purpose: []
